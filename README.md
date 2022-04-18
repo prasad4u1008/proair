@@ -4,9 +4,9 @@
 2. With multi threaded environment
 3. Where users can book the tickets.
 
-#Tech Stack
+# Tech Stack
 
-1.SpringBoot
-2.Eclipse
-3.Mysql
-4.Java8.
+1. SpringBoot
+2. Eclipse
+3. Mysql
+4. Java8.
